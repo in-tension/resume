@@ -21,7 +21,7 @@ fill: #3FA8BB;
 }
 .s2{
 font-size: 16.81px;
-font-family: DejaVuSans_d;
+font-family: Sans-serif;
 fill: #000000;
 }
 .s3{
