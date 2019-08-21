@@ -33,27 +33,27 @@ fill: #33E3B4;
 }
 .s4{
 font-size: 19.86px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #4866A2;
 }
 .s5{
 font-size: 19.86px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #3FA8BB;
 }
 .s6{
 font-size: 16.81px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #3FA8BB;
 }
 .s7{
 font-size: 16.81px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #3FA8BB;
 }
 .s8{
 font-size: 16.81px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #26A986;
 }
 
@@ -141,22 +141,22 @@ fill="#FFFFFF" stroke="none"/>
 <style type="text/css" ><![CDATA[
 
 @font-face {
-	font-family: Arial;
+	font-family: 'Carrois Gothic';
 	src: url("@{plChildRoot}/fonts/DejaVuSans-BoldOblique_s.woff") format("woff");
 }
 
 @font-face {
-	font-family: Arial;
+	font-family: 'Carrois Gothic';
 	src: url("../fonts/DejaVuSans-Bold_n.woff") format("woff");
 }
 
 @font-face {
-	font-family: Arial;
+	font-family: 'Carrois Gothic';
 	src: url("../fonts/DejaVuSans-Oblique_i.woff") format("woff");
 }
 
 @font-face {
-	font-family: Arial;
+	font-family: 'Carrois Gothic';
 	src: url("../fonts/DejaVuSans_d.woff") format("woff");
 }
 
