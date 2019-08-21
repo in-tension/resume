@@ -138,7 +138,7 @@ fill="#FFFFFF" stroke="none"/>
 </g>
 
 <!-- Any embedded fonts defined here -->
-<style type="text/css" ><![CDATA[
+<!-- <style type="text/css" ><![CDATA[
 
 @font-face {
 	font-family: 'Carrois Gothic';
@@ -160,6 +160,6 @@ fill="#FFFFFF" stroke="none"/>
 	src: url("../fonts/DejaVuSans_d.woff") format("woff");
 }
 
-]]></style>
+]]></style> -->
 
 </svg>
