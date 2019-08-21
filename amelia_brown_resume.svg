@@ -16,7 +16,7 @@ path, image { pointer-events: none; }
 
 .s1{
 font-size: 27.50px;
-font-family: DejaVuSans-Bold_n;
+font-family: Arial;
 fill: #3FA8BB;
 }
 .s2{
@@ -31,22 +31,22 @@ fill: #33E3B4;
 }
 .s4{
 font-size: 19.86px;
-font-family: DejaVuSans-Bold_n;
+font-family: Arial;
 fill: #4866A2;
 }
 .s5{
 font-size: 19.86px;
-font-family: DejaVuSans-BoldOblique_s;
+font-family: Arial;
 fill: #3FA8BB;
 }
 .s6{
 font-size: 16.81px;
-font-family: DejaVuSans-Oblique_i;
+font-family: Arial;
 fill: #3FA8BB;
 }
 .s7{
 font-size: 16.81px;
-font-family: DejaVuSans-Bold_n;
+font-family: Arial;
 fill: #3FA8BB;
 }
 .s8{
@@ -139,22 +139,22 @@ fill="#FFFFFF" stroke="none"/>
 <style type="text/css" ><![CDATA[
 
 @font-face {
-	font-family: DejaVuSans-BoldOblique_s;
+	font-family: Arial;
 	src: url("@{plChildRoot}/fonts/DejaVuSans-BoldOblique_s.woff") format("woff");
 }
 
 @font-face {
-	font-family: DejaVuSans-Bold_n;
+	font-family: Arial;
 	src: url("../fonts/DejaVuSans-Bold_n.woff") format("woff");
 }
 
 @font-face {
-	font-family: DejaVuSans-Oblique_i;
+	font-family: Arial;
 	src: url("../fonts/DejaVuSans-Oblique_i.woff") format("woff");
 }
 
 @font-face {
-	font-family: DejaVuSans_d;
+	font-family: Arial;
 	src: url("../fonts/DejaVuSans_d.woff") format("woff");
 }
 
