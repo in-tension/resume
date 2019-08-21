@@ -145,17 +145,17 @@ fill="#FFFFFF" stroke="none"/>
 
 @font-face {
 	font-family: DejaVuSans-Bold_n;
-	src: url("@{plChildRoot}/fonts/DejaVuSans-Bold_n.woff") format("woff");
+	src: url("../fonts/DejaVuSans-Bold_n.woff") format("woff");
 }
 
 @font-face {
 	font-family: DejaVuSans-Oblique_i;
-	src: url("@{plChildRoot}/fonts/DejaVuSans-Oblique_i.woff") format("woff");
+	src: url("../fonts/DejaVuSans-Oblique_i.woff") format("woff");
 }
 
 @font-face {
 	font-family: DejaVuSans_d;
-	src: url("@{plChildRoot}/fonts/DejaVuSans_d.woff") format("woff");
+	src: url("../fonts/DejaVuSans_d.woff") format("woff");
 }
 
 ]]></style>
