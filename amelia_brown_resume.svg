@@ -140,17 +140,17 @@ fill="#FFFFFF" stroke="none"/>
 
 @font-face {
 	font-family: DejaVuSans-BoldOblique_s;
-	src: url("fonts/DejaVuSans-BoldOblique_s.woff") format("woff");
+	src: url("./fonts/DejaVuSans-BoldOblique_s.woff") format("woff");
 }
 
 @font-face {
 	font-family: DejaVuSans-Bold_n;
-	src: url("fonts/DejaVuSans-Bold_n.woff") format("woff");
+	src: url("./fonts/DejaVuSans-Bold_n.woff") format("woff");
 }
 
 @font-face {
 	font-family: DejaVuSans-Oblique_i;
-	src: url("fonts/DejaVuSans-Oblique_i.woff") format("woff");
+	src: url("./fonts/DejaVuSans-Oblique_i.woff") format("woff");
 }
 
 @font-face {
