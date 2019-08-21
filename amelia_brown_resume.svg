@@ -10,23 +10,25 @@ style="display: block;margin-left: auto;margin-right: auto;">
 <clipPath id="c_1"><path d="M0,0H935V1210H0Z"/></clipPath>
 <clipPath id="c0"><path d="M0,1210V0H935V1210Z"/></clipPath>
 
-<style type="text/css"><![CDATA[
+<style type="text/css">
+	@import url("https://fonts.googleapis.com/css?family=Carrois Gothic")
+	<![CDATA[
 text { white-space: pre; }
 path, image { pointer-events: none; }
 
 .s1{
 font-size: 27.50px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #3FA8BB;
 }
 .s2{
 font-size: 16.81px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #000000;
 }
 .s3{
 font-size: 16.81px;
-font-family: Arial;
+font-family: 'Carrois Gothic';
 fill: #33E3B4;
 }
 .s4{
