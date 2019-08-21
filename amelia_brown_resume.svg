@@ -14,7 +14,7 @@ style="display: block;margin-left: auto;margin-right: auto;">
 	@import url("https://fonts.googleapis.com/css?family=Carrois Gothic")
 	<![CDATA[
 text { white-space: pre;
- 	font-family: 'Carrois Gothic'}
+ 	font-family: 'Carrois Gothic';}
 path, image { pointer-events: none; }
 
 .s1{
