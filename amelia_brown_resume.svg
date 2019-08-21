@@ -21,12 +21,12 @@ fill: #3FA8BB;
 }
 .s2{
 font-size: 16.81px;
-font-family: Sans-serif;
+font-family: Arial;
 fill: #000000;
 }
 .s3{
 font-size: 16.81px;
-font-family: DejaVuSans_d;
+font-family: Arial;
 fill: #33E3B4;
 }
 .s4{
@@ -51,7 +51,7 @@ fill: #3FA8BB;
 }
 .s8{
 font-size: 16.81px;
-font-family: DejaVuSans_d;
+font-family: Arial;
 fill: #26A986;
 }
 
