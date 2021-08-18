@@ -10,9 +10,3 @@
 </div>
 
 <img width="816" height="900" src="./content.svg"/>
-
-<div height="15" padding="0" margin="0">
-	<svg height="15">
-		<rect x="50" width="400" height="15" style="fill: #33e3b4"/>
-	</svg>
-</div>
