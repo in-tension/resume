@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic');
+			@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800');
+			@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200;800;900');
+			@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;700');
+		</style>
+	</defs>
+
+	<foreignObject x="50" y="0" width="816" height="926">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				*{
+					font-family: 'Oxygen', sans-serif;
+				}
+				h1 {
+					font-size: 28px;
+					color: #4866a2;
+					font-weight: 700;
+					margin-bottom: 3px;
+				}
+				h2 {
+					font-size: 22px;
+					color: #3fa8bb;
+					font-weight: 700;
+					margin-bottom: 3px;
+					margin-top: 0px;
+					font-style: italic;
+				}
+				h3 {
+					font-size: 16px;
+					color: #33e3b4;
+					margin-bottom: 3px;
+					margin-top: 0px;
+					font-style: italic;
+					font-weight: 300;
+				}
+				p {
+					margin-top: 0px;
+					color: #4c4d4f;
+					font-size: 16px;
+				}
+				a:link {
+					color: #33e3b4;
+				}
+				a:visited {
+					color: #3fa8bb;
+				}
+			</style>
+
+			<h1> Skills Summary </h1>
+
+						<p>
+				Python + Java Programmer - fluent, versatile, creative <br/>
+				Adept at quickly picking up new tools and techniques <br/>
+				Image Processing, Data Analysis, and Objected-Oriented Programming Experience <br/>
+				Other languages/skills: Fiji, excel, regex <br/>
+				Exposure to C++, Matlab, and git, html, css, svg <br/>
+				Strong presentation and communication skills, team player <br/>
+			</p>
+
+
+			<h1> Experience </h1>
+
+						<h2> Memorial Sloan Kettering Cancer Center </h2>
+        			<h3> 2017-2020, Programmer and Lab Assistant Itern </h3>
+        			<p>
+        				aImage processing and data analysis at a developmental biology  <a href="https://mskcc.org/research/ski/labs/mary-baylies">lab directed by Dr. Mary Baylies</a> that uses drosophila (fruit flies) as a model organism to study muscle development. Duties included interacting with scientists directly to identify and define automation requirements and quantification needs, continuous communication with scientists throughout development, automation of simple image processing and quantification using Fiji, statistical and volumetric calculations for microscope image stacks, coordination and collaboration on a Matlab project tracking cells in a dish and subsequent processing, analysis and visualization of produced data.
+        			</p>
+        			<h2> Flatiron Institute </h2>
+        			<h3> Spring 2020, Associate Research Analyst </h3>
+        			<p>
+        				aVisualization of 3D microscope data using augmented reality
+        			</p>
+        
+
+			<h1> Publications </h1>
+
+						<p>
+				<a href="https://pubmed.ncbi.nlm.nih.gov/30905770/">
+        S. Windner, A. Manhart, A. Brown, A. Mogilner, M Baylies, "Nuclear Scaling is Coordinated among Individual Nuclei in Multi-nucleated Muscle Fibers" Developmental Cell, Vol 49, Issue 1, p48-62, April 8, 2019. </a>
+			</p>
+
+
+			<h1> Code </h1>
+
+						<p>
+				General python utilities package I made for my own use: <a href="http://github.com/in-tension/brutils"> brutils </a>
+			</p>
+
+
+			<h1> Education </h1>
+
+						<h3>
+				Pleasantville High School 2016
+			</h3>
+
+
+		</div>
+	</foreignObject>
+
+	<rect x="80" y="1041" width="300" height="15" style="fill: #33e3b4"/>
+
+</svg>

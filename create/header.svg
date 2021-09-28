@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic');
+			@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800');
+			@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200;800;900');
+			@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;700');
+
+		</style>
+	</defs>
+	<!-- <rect width="20" height="30" fill="red"/>
+	<text x="40" y="40" font-size="20px" fill="black"> butts </text> -->
+	<foreignObject x="10" y="0" width="500" height="130">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+
+		<style>
+		*{
+			font-family: 'Oxygen', sans-serif;
+		}
+		h1 {
+			font-size: 36px;
+			color: #33e3b4;
+			font-weight: 700;
+			margin-bottom: 0px;
+		}
+
+		p {
+			margin-top: 0px;
+			color: #4c4d4f;
+			font-size: 16px;
+		}
+
+		</style>
+
+		<!-- <p> Amelia L. Brown </p> -->
+		<p>
+			brown.amelia@gmail.com <br/>
+			(914) 393-8752 <br/>
+			143 Great Oak Lane <br/>
+			Pleasantville, NY 10570
+		</p>
+
+		<h1> Amelia L. Brown </h1>
+	</div>
+	</foreignObject>
+</svg>
