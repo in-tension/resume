@@ -5,6 +5,7 @@
 </style>
 
 <h1> blah </h1> -->
-<img src="./yup.svg"/>
+<!-- <img src="./yup.svg"/> -->
 
+<iframe src="./yup.svg"></iframe>
 <!-- <object data="./yup.svg" type="image/svg+xml"></object>   -->
