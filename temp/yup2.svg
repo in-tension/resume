@@ -86,6 +86,9 @@
 				a:visited {
 					color: #3fa8bb;
 				}
+				sup {
+					color: #3fa8bb;
+				}
 
 			</style>
 
@@ -106,7 +109,7 @@
 			<h3> 2017-2020, Programmer and Lab Assistant Itern </h3>
 
 			<p>
-				Image processing and data analysis at a developmental biology  <a href="https://mskcc.org/research/ski/labs/mary-baylies">lab directed by Dr. Mary Baylies</a> that uses drosophila (fruit flies) as a model organism to study muscle development. Duties included interacting with scientists directly to identify and define automation requirements and quantification needs, continuous communication with scientists throughout development, automation of simple image processing and quantification using Fiji, statistical and volumetric calculations for microscope image stacks, coordination and collaboration on a Matlab project tracking cells in a dish and subsequent processing, analysis and visualization of produced data.
+				Image processing and data analysis at a developmental biology <a href="https://mskcc.org/research/ski/labs/mary-baylies">lab directed by Dr. Mary Baylies</a><sup>1</sup> that uses drosophila (fruit flies) as a model organism to study muscle development. Duties included interacting with scientists directly to identify and define automation requirements and quantification needs, continuous communication with scientists throughout development, automation of simple image processing and quantification using Fiji, statistical and volumetric calculations for microscope image stacks, coordination and collaboration on a Matlab project tracking cells in a dish and subsequent processing, analysis and visualization of produced data.
 			</p>
 
 			<h2> Flatiron Institue </h2>
@@ -119,11 +122,11 @@
 
 			<p> <a href="https://pubmed.ncbi.nlm.nih.gov/30905770/">
 				S. Windner, A. Manhart, A. Brown, A. Mogilner, M Baylies, “Nuclear Scaling is Coordinated among Individual Nuclei in Multi-nucleated Muscle Fibers” Developmental Cell, Vol 49, Issue 1, p48-62, April 8, 2019.
-			</a>
+			</a><sup>2</sup>
 			</p>
 
 			<h1> Code </h1>
-			<p> General python utilities package I made for my own use: <a href="http://github.com/in-tension/brutils"> http://github.com/in-tension/brutils </a>
+			<p> General python utilities package I made for my own use: <a href="http://github.com/in-tension/brutils"> http://github.com/in-tension/brutils </a><sup>3</sup>
 		</p>
 
 			<h1> Education </h1>
