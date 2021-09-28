@@ -19,7 +19,9 @@
 	</style> */
 
 	<rect x="80" width="300" height="15" style="fill: #33e3b4"/>
-
+	<a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/a">
+    	<circle cx="50" cy="40" r="35"/>
+  	</a>
 
 	<svg x="80" y="50">
 		<image width="130" height="130" alt="Description of the image"
